@@ -5,15 +5,15 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Admin", "Admin", "{E2E3732D-35B6-4E7D-AB19-23D82DD610D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VasuthaloAdmin", "VasuthaloAdmin\VasuthaloAdmin.csproj", "{1752C767-D851-4F58-9BBF-AD1C3D16D592}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VasuthaloAdmin", "VasuthaloAdmin\VasuthaloAdmin.csproj", "{1752C767-D851-4F58-9BBF-AD1C3D16D592}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Public", "Public", "{1269C04A-D423-42B4-9940-4C80C64486B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VasuthaloPublic", "VasuthaloPublic\VasuthaloPublic.csproj", "{885379D6-C5F7-4632-BFAD-17618DDC8CB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VasuthaloPublic", "VasuthaloPublic\VasuthaloPublic.csproj", "{885379D6-C5F7-4632-BFAD-17618DDC8CB7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{46A93D98-C1AD-4363-9DC1-97AB78A432F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VasuthaloAlt", "VasuthaloAlt\VasuthaloAlt.csproj", "{C9436413-1233-4D69-9657-E7AF648907AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VasuthaloAlt", "VasuthaloAlt\VasuthaloAlt.csproj", "{C9436413-1233-4D69-9657-E7AF648907AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -10,7 +10,7 @@ namespace VasuthaloAlt.Model
 {
 
         [Table("CITIES")]
-        public class City : AbstractBase
+        public class City : AbstractBase 
         {
 
             [Column("CITY_NAME")]
